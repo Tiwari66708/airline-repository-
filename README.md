@@ -18,32 +18,7 @@ The Airline Reservation Management System is a Java-based application designed t
 - JDBC for database connectivity.
 - IDE: IntelliJ IDEA.
 
-## Installation
 
-1. **Database Setup**:
-   - Install MySQL database server on your system.
-   - Create a new database named `airline_reservation`.
-   - Run the SQL script provided in the `database/airline.sql` file to create the necessary tables and insert sample data.
 
-2. **IDE Setup**:
-   - Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, etc.).
-   - Configure the project SDK and libraries as needed.
 
-3. **Run the Application**:
-   - Compile and run the `Login.java` file to launch the application.
-   - Ensure that the MySQL database server is running before launching the application.
 
-## Usage
-
-- Upon launching the application, users will be presented with the main interface displaying options for managing flights, reservations, passengers, payments, and cancellations.
-- Users can navigate through the different functionalities using the menu bar or buttons provided in the GUI.
-- Login with the provided credentials (username: admin, password: 12345) to access the management features.
-
-## Contributors
-
-- [Mahesh Sathe](https://github.com/maheshsathe07)
-- [Prem Shejole](https://github.com/shejoleprem)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
